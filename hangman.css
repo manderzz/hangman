@@ -1,0 +1,45 @@
+body{
+	background-color: #f4f4f4;
+	color:#000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	/* Same as above
+	font: normal  16px Arial, Helvetica, sans-serif;*/
+	line-height: 1.6em;
+}
+
+.main{
+	margin:10px;
+	/*
+	- width is the width of the container
+	- margin auto creates an equal spacing around an element
+	- width as a set pixels doesn't respond well when the size of the screen changes; so use a % instead ie 50%
+	*/
+}
+
+h1{
+	font-size:250%;
+}
+
+h3{
+	font-size:250%;
+}
+
+#letters{
+	font-size:200%;
+}
+
+#underScores{
+	display:none;
+}
+
+#actualUnderScores{
+	margin-top:20px;
+	font-size:250%;
+	font-weight:bold;
+}
+
+#myCanvas{
+	margin-top:50px;
+}
