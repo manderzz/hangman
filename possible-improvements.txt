@@ -1,6 +1,0 @@
-This hangman only works for single words at the moment
-
-Try improving the aesthetics of this version of hangman
-(specifically the lettering)
-
-Is there a better way to do the underscores?
